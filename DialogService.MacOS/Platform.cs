@@ -9,6 +9,8 @@ namespace DialogService
     /// </summary>
     public class PlatformImplementation : AbstractPlatform
     {
+        public override RuntimePlatform Platform => RuntimePlatform.MacOS;
+
         /// <summary>
         /// Gets MacOS dialog service implementation
         /// </summary>
