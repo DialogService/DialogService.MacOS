@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DialogService
+namespace DialogService.MacOS
 {
     /// <summary>
     /// Functionality to get macOS platform implementation of dialog service
